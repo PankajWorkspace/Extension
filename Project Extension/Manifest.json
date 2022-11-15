@@ -1,0 +1,9 @@
+{
+  "name": "Title of the current tab",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "Extension.html",
+    "permission": ["tabs"]
+  }
+}
